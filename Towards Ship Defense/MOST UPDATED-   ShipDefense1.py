@@ -10,6 +10,7 @@ from pygame.locals import *
 
 pygame.init()
 
+
 t=pygame.time.get_ticks()
 
 DISPLAYSURF = pygame.display.set_mode((800, 600))
